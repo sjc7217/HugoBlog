@@ -1,5 +1,5 @@
 baseURL = "https://zjsxsjc1001.xyz"
-title = "Shane's Personal Blog"
+title = "偽物"
 themesDir = "./themes"
 theme = "m10c"
 paginate = 5
@@ -7,7 +7,7 @@ paginate = 5
 [params]
   avatar = "avatar.jpg"
   author = "Shane Shi"
-  description = "Personal blog written by a programmer Shane."
+  description = "Ideas are bulletproof. - V for Vendetta"
   [[params.social]]
     name = "github"
     url = "https://github.com/sjc7217"
