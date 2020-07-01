@@ -16,5 +16,5 @@ date = "2020-07-01"
 * Pursue free, enjoy quiet
 * Like [HINATAZAKA46](https://www.hinatazaka46.com)
 
-
-![Manamo Miyata](/images/manamo1.jpeg)
+<img src="/images/manamo1.jpeg" alt="Manamo Miyata" width="50%" height="50%" align="middle" />
+<!-- ![Manamo Miyata](/images/manamo1.jpeg) -->

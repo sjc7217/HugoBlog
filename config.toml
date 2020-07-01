@@ -4,6 +4,16 @@ themesDir = "./themes"
 theme = "m10c"
 paginate = 5
 
+[permalinks]
+  posts = "/:year/:month/:title/"
+
+#render html tags in markdown
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   avatar = "avatar.jpg"
   author = "Shane Shi"
