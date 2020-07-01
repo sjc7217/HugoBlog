@@ -3,8 +3,9 @@ title = "Shane's Personal Blog"
 themesDir = "./themes"
 theme = "m10c"
 paginate = 5
-avatar = "./static/images/manamo.jpeg"
+
 [params]
+  avatar = "avatar.jpg"
   author = "Shane Shi"
   description = "Personal blog written by a programmer Shane."
   [[params.social]]
