@@ -40,10 +40,16 @@ ssh root@zjsxsjc1001.xyz "cd /var/www/HugoBlog; git pull origin master; hugo"
 import sites/*
 
 ```
+* In order to rejecting requests from outside to port 8088 , just run two iptables command:
+```bash
+iptables -I INPUT -p TCP --dport 8088 -j DROP
+iptables -I INPUT -s 127.0.0.1 -p TCP --dport 8088 -j ACCEPT
+```
+
 
 ### Trojan setting
-* Trojan new proxy tool for us to avoid active probe or other flow analysis, in the meantime, it provides nice performance for us to explore the free network.
-* The simple setting is as follows, it will listen on port 443 and provide proxy service.
+* Trojan is a new proxy tool for us to avoid active probe, in the meantime, it provides nice performance for us to explore the free network.
+* The simple setting is as follows, it will listen on port 443 and provide actual proxy service.
 
 ```json
 {
