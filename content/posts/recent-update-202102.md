@@ -6,11 +6,11 @@ date = "2021-02-26"
 
 ### Empty Window
 
-It's a long time since last update and almost forget this place to share my life.
+It's a long time since my last update and I almost forget this place to share my life.
 
 COVID-2019 changed my life a lot although I'm now in mainland China where the pandamic control is *Strong and Quick*. In their words, the CPC's decision is quick and correct, but in my opinion, it's a mirror which shows their endless power and willful.
 
-I passed JLPT N1 test in DEC 2020 after about 3 months' study and training. I start study Japanese on Nov 2018 and I think it's much better now after N2 and N1 test.
+I passed JLPT N1 test in DEC 2020 after about 3 months' study and training. A new language helps me learn from another orientation.
 
 ### Political compass
 
@@ -33,7 +33,7 @@ A more detailed political compass map is as follow:
 
 A new word *Involution* is now popular among young clusters in China. People in here is busy in making money, making money and making money.
 
-What I want is only a fair society and simple life but this environment is push me to compete, fight and earn. The social problem caused by bureaucratic group and vested interests are worsening the living environment of ordinary people. 
+What I want is only a fair society and simple life but this environment pushes me to compete, fight and earn. The social problems caused by bureaucratic group and vested interests are worsening the living environment of ordinary people. 
 
 Hope my immigrant plan can success soon.
 
