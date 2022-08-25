@@ -1,0 +1,20 @@
+name: Release
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: release-to-vpc
+        uses: cross-the-world/ssh-pipeline@v1.2.0
+        with:
+          host: ${{ secrets.RELEASE_TARGET_HOST }}
+          user: root
+          pass: ${{ secrets.RELEASE_TARGET_ROOT_PW }}
+          port: 22
+          connect_timeout: 10s
+          script: |
+            cd /var/www/HugoBlog; git pull origin master; hugo
